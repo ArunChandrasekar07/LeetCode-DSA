@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0139-word-break) |
+| [0389-find-the-difference](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3612-process-string-with-special-operations-i) |
@@ -74,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [1833-maximum-ice-cream-bars](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0078-subsets) |
+| [0389-find-the-difference](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
