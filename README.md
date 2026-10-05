@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0319-bulb-switcher) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0973-k-closest-points-to-origin](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -586,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
