@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2365-task-scheduler-ii](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/2365-task-scheduler-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
