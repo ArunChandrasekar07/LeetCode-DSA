@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [3612-process-string-with-special-operations-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3612-process-string-with-special-operations-i) |
 ## Stack
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
