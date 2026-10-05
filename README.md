@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
@@ -429,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0695-max-area-of-island) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
