@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0389-find-the-difference) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Simulation
 |  |
 | ------- |
@@ -395,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
