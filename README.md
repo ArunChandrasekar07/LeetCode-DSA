@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0056-merge-intervals](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0139-word-break](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0139-word-break) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0169-majority-element) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0455-assign-cookies) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
