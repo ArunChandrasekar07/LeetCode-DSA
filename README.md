@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
