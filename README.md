@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2365-task-scheduler-ii](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/2365-task-scheduler-ii) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3978-unique-middle-element](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3978-unique-middle-element) |
 | [3979-maximum-valid-pair-sum](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3979-maximum-valid-pair-sum) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
