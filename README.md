@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3978-unique-middle-element](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3978-unique-middle-element) |
@@ -379,6 +381,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
