@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0070-climbing-stairs) |
@@ -562,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
