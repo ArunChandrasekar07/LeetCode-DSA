@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0695-max-area-of-island](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0695-max-area-of-island) |
 | [0720-longest-word-in-dictionary](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0733-flood-fill](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0905-sort-array-by-parity](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 ## Enumeration
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -409,4 +413,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
