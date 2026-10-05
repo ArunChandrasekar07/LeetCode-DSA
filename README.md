@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3978-unique-middle-element](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3978-unique-middle-element) |
 | [3979-maximum-valid-pair-sum](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3979-maximum-valid-pair-sum) |
+| [4044-count-good-cyclic-rotations](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/4044-count-good-cyclic-rotations) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Binary Search
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1732-find-the-highest-altitude](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [3981-count-distinct-ways-to-form-target-from-two-strings](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3981-count-distinct-ways-to-form-target-from-two-strings) |
+| [4044-count-good-cyclic-rotations](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/4044-count-good-cyclic-rotations) |
 ## Linked List
 |  |
 | ------- |
@@ -519,4 +521,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [4044-count-good-cyclic-rotations](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/4044-count-good-cyclic-rotations) |
 <!---LeetCode Topics End-->
