@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0189-rotate-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
