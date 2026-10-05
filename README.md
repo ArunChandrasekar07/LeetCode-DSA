@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3978-unique-middle-element](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3978-unique-middle-element) |
 | [3979-maximum-valid-pair-sum](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3979-maximum-valid-pair-sum) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Binary Search
 |  |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2365-task-scheduler-ii](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/2365-task-scheduler-ii) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Dynamic Programming
 |  |
