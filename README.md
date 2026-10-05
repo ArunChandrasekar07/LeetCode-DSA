@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0905-sort-array-by-parity](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1732-find-the-highest-altitude) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 ## Enumeration
 |  |
 | ------- |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
