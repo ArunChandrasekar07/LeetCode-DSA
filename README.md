@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0905-sort-array-by-parity](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1051-height-checker) |
+| [1331-rank-transform-of-an-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0905-sort-array-by-parity](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1051-height-checker) |
+| [1331-rank-transform-of-an-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Bit Manipulation
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0720-longest-word-in-dictionary](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0720-longest-word-in-dictionary) |
 | [1189-maximum-number-of-balloons](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
