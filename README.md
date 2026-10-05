@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0695-max-area-of-island) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 | [4044-count-good-cyclic-rotations](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/4044-count-good-cyclic-rotations) |
