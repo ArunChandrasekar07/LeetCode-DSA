@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0139-word-break) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
