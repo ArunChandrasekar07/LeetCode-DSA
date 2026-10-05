@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -347,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
