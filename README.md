@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
