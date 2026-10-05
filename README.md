@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3978-unique-middle-element](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3978-unique-middle-element) |
 | [3979-maximum-valid-pair-sum](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3979-maximum-valid-pair-sum) |
 ## Binary Search
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -356,4 +361,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
