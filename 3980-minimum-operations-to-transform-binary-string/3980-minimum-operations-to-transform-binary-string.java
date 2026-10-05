@@ -4,7 +4,7 @@ class Solution {
         int n=s1.length();
         char[] one=s1.toCharArray();
 
-        if(n==1){
+if(n==1){
     if(s1.charAt(0)==s2.charAt(0)){
         return 0;
     }
