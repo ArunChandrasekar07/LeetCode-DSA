@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0720-longest-word-in-dictionary) |
 | [1189-maximum-number-of-balloons](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3981-count-distinct-ways-to-form-target-from-two-strings](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3981-count-distinct-ways-to-form-target-from-two-strings) |
 ## Stack
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1732-find-the-highest-altitude) |
+| [3981-count-distinct-ways-to-form-target-from-two-strings](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3981-count-distinct-ways-to-form-target-from-two-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0139-word-break) |
 | [0678-valid-parenthesis-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
+| [3981-count-distinct-ways-to-form-target-from-two-strings](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3981-count-distinct-ways-to-form-target-from-two-strings) |
 ## Newton's Method
 |  |
 | ------- |
