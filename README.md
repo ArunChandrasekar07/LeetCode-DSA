@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
