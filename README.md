@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0720-longest-word-in-dictionary) |
 | [1189-maximum-number-of-balloons](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3612-process-string-with-special-operations-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3980-minimum-operations-to-transform-binary-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3980-minimum-operations-to-transform-binary-string) |
 | [3981-count-distinct-ways-to-form-target-from-two-strings](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3981-count-distinct-ways-to-form-target-from-two-strings) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2365-task-scheduler-ii](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/2365-task-scheduler-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Dynamic Programming
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 | [4044-count-good-cyclic-rotations](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/4044-count-good-cyclic-rotations) |
 ## Binary Search Tree
