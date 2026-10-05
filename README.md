@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0720-longest-word-in-dictionary) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0720-longest-word-in-dictionary) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
