@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0056-merge-intervals) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0078-subsets) |
 ## Bucket Sort
 |  |
