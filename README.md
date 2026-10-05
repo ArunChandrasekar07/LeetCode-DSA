@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1291-sequential-digits) |
 | [3979-maximum-valid-pair-sum](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3979-maximum-valid-pair-sum) |
 ## Quicksort
 |  |
