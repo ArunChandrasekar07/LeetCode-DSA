@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0164-maximum-gap) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
