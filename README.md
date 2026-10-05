@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -572,12 +573,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0155-min-stack) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0901-online-stock-span) |
 ## Merge Sort
 |  |
 | ------- |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0901-online-stock-span) |
 ## Manacher
 |  |
 | ------- |
