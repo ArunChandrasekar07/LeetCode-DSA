@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [3612-process-string-with-special-operations-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3612-process-string-with-special-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0029-divide-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
