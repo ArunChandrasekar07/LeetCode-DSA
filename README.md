@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0189-rotate-array) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
