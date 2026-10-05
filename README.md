@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1046-last-stone-weight) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1732-find-the-highest-altitude](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [3981-count-distinct-ways-to-form-target-from-two-strings](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3981-count-distinct-ways-to-form-target-from-two-strings) |
 ## Linked List
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2365-task-scheduler-ii](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/2365-task-scheduler-ii) |
