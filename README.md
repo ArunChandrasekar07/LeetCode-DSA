@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0720-longest-word-in-dictionary](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0905-sort-array-by-parity](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1732-find-the-highest-altitude) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0720-longest-word-in-dictionary](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0905-sort-array-by-parity](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
