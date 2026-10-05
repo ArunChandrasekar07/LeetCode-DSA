@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0217-contains-duplicate) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
