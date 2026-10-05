@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Greedy
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [1189-maximum-number-of-balloons](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
