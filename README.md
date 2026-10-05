@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0905-sort-array-by-parity](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1732-find-the-highest-altitude](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0905-sort-array-by-parity](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0905-sort-array-by-parity](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Bit Manipulation
