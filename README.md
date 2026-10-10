@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0733-flood-fill](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0912-sort-an-array) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [3980-minimum-operations-to-transform-binary-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3980-minimum-operations-to-transform-binary-string) |
 | [3981-count-distinct-ways-to-form-target-from-two-strings](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3981-count-distinct-ways-to-form-target-from-two-strings) |
 ## Newton's Method
