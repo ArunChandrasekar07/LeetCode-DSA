@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2365-task-scheduler-ii](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/2365-task-scheduler-ii) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3765-complete-prime-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3765-complete-prime-number) |
 | [3979-maximum-valid-pair-sum](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/3979-maximum-valid-pair-sum) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
