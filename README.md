@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0695-max-area-of-island) |
@@ -651,4 +654,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
