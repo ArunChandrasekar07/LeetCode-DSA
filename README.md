@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Two Pointers
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 ## Tree
 |  |
