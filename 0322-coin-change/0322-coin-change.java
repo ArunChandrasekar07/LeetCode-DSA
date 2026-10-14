@@ -1,24 +1,24 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
         int[] df=new int[amount+1];
-        for(int j=0;j<df.length;j++){
-            df[j]=Integer.MAX_VALUE;
+        for(int i=0;i<df.length;i++){
+            df[i]=Integer.MAX_VALUE;
         }
         df[0]=0;
-        for(int i=1;i<=amount;i++){
+        for(int j=1;j<=amount;j++){
             for(int x:coins){
-                if(x<=i){
-                    if(df[i-x]!=Integer.MAX_VALUE){
-                        df[i]=Math.min(df[i], df[i-x]+1);
+                if(x<=j){
+                    if(df[j-x]!=Integer.MAX_VALUE){
+                        df[j]=Math.min(df[j],df[j-x]+1);
                     }
                 }
             }
         }
-        if(df[amount]==Integer.MAX_VALUE){
-            return -1;
+        if(df[amount]!=Integer.MAX_VALUE){
+            return df[amount];
         }
         else{
-            return df[amount];
+            return -1;
         }
     }
 }
