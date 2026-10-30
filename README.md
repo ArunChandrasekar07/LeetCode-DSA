@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0389-find-the-difference) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0692-top-k-frequent-words](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0720-longest-word-in-dictionary) |
 ## String Matching
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0695-max-area-of-island) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/ArunChandrasekar07/LeetCode-DSA/tree/master/0901-online-stock-span) |
