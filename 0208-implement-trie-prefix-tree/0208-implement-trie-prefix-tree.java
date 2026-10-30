@@ -1,7 +1,7 @@
 class Trie {
     class TrieNode{
         TrieNode[] trie=new TrieNode[26];
-        boolean isend=false;
+        boolean isEnd=false;
     }
     TrieNode root;
     public Trie() {
@@ -17,7 +17,7 @@ class Trie {
             }
             current=current.trie[index];
         }
-        current.isend=true;
+        current.isEnd=true;
     }
     
     public boolean search(String word) {
@@ -29,7 +29,7 @@ class Trie {
             }
             current=current.trie[index];
         }
-        return current.isend;
+        return current.isEnd;
     }
     
     public boolean startsWith(String prefix) {
